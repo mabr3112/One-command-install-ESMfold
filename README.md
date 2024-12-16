@@ -1,5 +1,5 @@
 # One-command-install-ESMfold
-Install ESMFold into a fresh conda environment with just one line and a .yaml file.
+Install ESMFold into a fresh conda environment with just one line and a .yml file.
 
 First, clone this repository:
 ```
@@ -22,3 +22,4 @@ bash run_test.sh
 ```
 
 This should produce the folded structure of the test-peptide in the outputs folder.
+You can also feel free to use and adapt the prediction script to your liking.
